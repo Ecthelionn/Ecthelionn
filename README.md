@@ -19,6 +19,20 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ecthelionn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ecthelionn&show_icons=true&locale=en&theme=" alt="Ecthelionn" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ecthelionn&theme=" alt="Ecthelionn" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Ecthelionn">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ecthelionn&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ecthelionn&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ecthelionn&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ecthelionn&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ecthelionn&theme=2077" height="180em" />
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Ecthelionn&icon=0&color=0)](https://visitcount.itsvg.in)
 
