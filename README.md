@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Js,React**<br><br>📫 How to reach me **a.tutal1997@gmail.com**
+🌱 I’m currently learning **Js,Python and Cyber Security**<br><br>📫 How to reach me **a.tutal1997@gmail.com**
 
 
 ## 🌐 Socials:
